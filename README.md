@@ -33,6 +33,10 @@ The following **additional** features are implemented:
 * [x] Backroung image
 * [x] AppIcon
 * [x] Welcome Animation Launch Screen
+*
+
+![Walkthrough](tipCal.gif)
+
 
 ## Video Walkthrough 
 
