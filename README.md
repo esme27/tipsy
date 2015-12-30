@@ -14,6 +14,9 @@ I will definately enjoy to be part of new challenges in the class.
 
 
 
+
+
+
 The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
@@ -42,6 +45,14 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+It was my first interaction with Swift, gitHup & Slack
+gitHup in special was a little confuse at the begining, 
+also LiceCap has not good resolution to record image, so it was a
+challenge to record a good demo without it.
+
+
+
 
 ## License
 
