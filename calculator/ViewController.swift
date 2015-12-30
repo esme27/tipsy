@@ -10,7 +10,7 @@ import UIKit
 
 
 class ViewController: UIViewController {
-
+    
     
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var billField: UITextField!
@@ -56,9 +56,9 @@ class ViewController: UIViewController {
     }
     
     
-
     
-   
+    
+    
     
     
     override func viewDidLoad() {
@@ -78,20 +78,20 @@ class ViewController: UIViewController {
         
         if ( ((time - userDefaults.doubleForKey("Capture_Time")) < tenMinuteValue ) && (userDefaults.doubleForKey("Capture_total") > 0.0) ) {
             billField.text = String(format: "%.2f", userDefaults.floatForKey("Capture_total"))
-           
             
-        
+            
+            
         }
-        
+            
         else {
-           
+            
             billField.text = ""
             
-             }
+        }
         
     }
     
-        override func viewWillAppear(animated: Bool) {
+    override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         print("view will appear")
         //onTextChange(tipLabel)
@@ -108,8 +108,8 @@ class ViewController: UIViewController {
         billField.becomeFirstResponder()
         
         animatedBillField()
-            
-            
+        
+        
         
     }
     
@@ -132,12 +132,12 @@ class ViewController: UIViewController {
         super.viewDidDisappear(animated)
         print("view did disappear")
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
     @IBAction func onEditingChange(sender: AnyObject) {
         var tipPercentages = [0.18, 0.2, 0.22, Double(userDefaults.integerForKey("Tip_Default")) / 100.0]
         let tipPercentage = tipPercentages [tipControl.selectedSegmentIndex]
@@ -147,7 +147,7 @@ class ViewController: UIViewController {
         
         let tip = billAmount *  tipPercentage
         total = billAmount + tip
-       
+        
         
         onTextChange(sender)
         
@@ -160,32 +160,32 @@ class ViewController: UIViewController {
         
         animatedBillField()
         
-        }
+    }
     
     @IBAction func onTextChange(sender: AnyObject) {
-    
-      let split = (splitField.text! as NSString).doubleValue
+        
+        let split = (splitField.text! as NSString).doubleValue
         
         
-     if ( split >= 1 ) {
+        if ( split >= 1 ) {
             
-       let each = total / split
-        
-        eachLabel.text = currencyFormatter.stringFromNumber(each)
-        
-        
-    }
-        
-    else {
-        
-        eachLabel.text = currencyFormatter.stringFromNumber(0.00)
-        
-    }
+            let each = total / split
+            
+            eachLabel.text = currencyFormatter.stringFromNumber(each)
+            
+            
+        }
+            
+        else {
+            
+            eachLabel.text = currencyFormatter.stringFromNumber(0.00)
+            
+        }
         
     }
     
     @IBAction func onTap(sender: AnyObject) {
-       
+        
         view.endEditing(true)
     }
     
