@@ -38,9 +38,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/wf--CBzIES0
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_https://youtu.be/wf--CBzIES0" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=wf--CBzIES0
+" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=wf--CBzIES0" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 GIF created with [LiceCap](https://youtu.be/wf--CBzIES0/).
 
