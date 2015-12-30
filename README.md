@@ -8,7 +8,7 @@ Submitted by: **Esmeralda Romero**
 Time spent: **35** hours spent in total
 
 ## User Stories
- -* It was a very enjoyable challenge specially because I had not previus experience in Swift,
+  - It was a very enjoyable challenge specially because I had not previus experience in Swift,
     but after the pre-work I feel more confidence, I have learned some of the good bases, 
     I will definately enjoy to be part of new challenges in the class.
 
