@@ -8,12 +8,9 @@ Submitted by: **Esmeralda Romero**
 Time spent: **35** hours spent in total
 
 ## User Stories
-It was a very enjoyable challenge specially because I had not previus experience in Swift,
-but after the pre-work I feel more confidence, I have learned some of the good bases, 
-I will definately enjoy to be part of new challenges in the class.
-
-
-
+It was a very enjoyable challenge especially because I had no previous experience in Swift,
+but after the pre-work I feel more confidence, I have learned some of the good basics, 
+I definitely will enjoy being part of new challenges in the class.
 
 
 
@@ -29,31 +26,30 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-* [x] Backroung image
-* [x] AppIcon
-* [x] Welcome Animation Launch Screen
+- [x] List anything else that you can get done to improve the app functionality!
+  - [x] Backround image
+  - [x] AppIcon
+  - [x] Welcome Animation Launch Screen
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+![walkthrough](demo.gif)
+
+GIF created with [LiceCap](https://youtu.be/wf--CBzIES0/).
+
+Additionally here is a QuickTime movie recording of using the app (to better display of the background image):
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wf--CBzIES0
 " target="_blank"><img src="http://img.youtube.com/vi/wf--CBzIES0/0.jpg" 
 alt="walkthrough" width="240" height="180" border="10" /></a>
 
-GIF created with [LiceCap](https://youtu.be/wf--CBzIES0/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-It was my first interaction with Swift, gitHup & Slack
-gitHup in special was a little confuse at the begining, 
-also LiceCap has not good resolution to record image, so it was a
-challenge to record a good demo without it.
-
-
+It was my first interaction with Swift, GitHub & Slack.  GitHub especially was a little confusing at the beginning.  Also LiceCap does not record a high-enough resolution image, so it was a challenge to record a good demo.
 
 
 ## License
