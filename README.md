@@ -35,8 +35,6 @@ The following **additional** features are implemented:
 * [x] Welcome Animation Launch Screen
 *
 
-![Walkthrough](tipCal.gif)
-
 
 ## Video Walkthrough 
 
