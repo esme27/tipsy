@@ -8,9 +8,9 @@ Submitted by: **Esmeralda Romero**
 Time spent: **35** hours spent in total
 
 ## User Stories
- - It was a very enjoyable challenge specially because I had not previus experience in Swift,
-   but after the pre-work I feel more confidence, I have learned some of the good bases, 
-   I will definately enjoy to be part of new challenges in the class.
+ -* It was a very enjoyable challenge specially because I had not previus experience in Swift,
+    but after the pre-work I feel more confidence, I have learned some of the good bases, 
+    I will definately enjoy to be part of new challenges in the class.
 
 
 
@@ -50,10 +50,10 @@ alt="walkthrough" width="240" height="180" border="10" /></a>
 
 Describe any challenges encountered while building the app.
 
-It was my first interaction with Swift, gitHup & Slack 
-gitHup in special was a little confuse at the begining, 
-also LiceCap has not good resolution to record image, so it was a
-challenge to record a good demo without it.
+-* It was my first interaction with Swift, gitHup & Slack 
+   gitHup in special was a little confuse at the begining, 
+   also LiceCap has not good resolution to record image, so it was a
+   challenge to record a good demo without it.
 
 
 
