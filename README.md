@@ -50,7 +50,7 @@ alt="walkthrough" width="240" height="180" border="10" /></a>
 
 Describe any challenges encountered while building the app.
 
--* It was my first interaction with Swift, gitHup & Slack 
+-  It was my first interaction with Swift, gitHup & Slack 
    gitHup in special was a little confuse at the begining, 
    also LiceCap has not good resolution to record image, so it was a
    challenge to record a good demo without it.
